@@ -1,0 +1,8 @@
+.resultColor {
+  font-size: 20px;
+  color: darkred;
+  background-color: aqua;
+  padding: 5px 10px 5px 10px;
+  width: 45px;
+  border-radius: 5px;
+}
